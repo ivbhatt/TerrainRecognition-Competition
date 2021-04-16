@@ -1,6 +1,8 @@
 Link to Dataset (NCSU access) (ECE542_sp2021_Project_TerrainRecognition):
 https://drive.google.com/drive/folders/15qAg_VhIEGRIBGc6Uwr-dQssTLlpRNoO?usp=sharing 
 
+Link to all intermediate outputs + final model files (NCSU access):
+https://drive.google.com/drive/folders/1HVns_WY5RnCBIbPQHnldThrNP4e8Lzqr?usp=sharing
 === 1 sync_data.ipynb [compuslory] ===
 
 This notebook synchronizes the x_attributes and y_labels. Details about data-synchronization is presented in report.
