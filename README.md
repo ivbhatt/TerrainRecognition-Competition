@@ -1,9 +1,7 @@
 # DLNN-ProjC1
 Project made as part of ECE542: Deep Learning &amp; Neural Networks; TerrainRecognition
 
-Please refer instructions.txt for running instructions:
-
-instructions:
+## Instructions:
 Link to Dataset (NCSU access) (ECE542_sp2021_Project_TerrainRecognition):
 https://drive.google.com/drive/folders/15qAg_VhIEGRIBGc6Uwr-dQssTLlpRNoO?usp=sharing 
 
