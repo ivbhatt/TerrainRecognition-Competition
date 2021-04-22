@@ -1,6 +1,6 @@
 # DLNN-ProjC
 Project made as part of ECE542: Deep Learning &amp; Neural Networks; TerrainRecognition <br/>
-*This worked finished first on the leaderboard with F1-score of 0.935 on the private-test set.
+*This work finished first on the leaderboard with F1-score of 0.935 on the private-test set.
 
 ## Instructions:
 Link to Dataset (NCSU access) (ECE542_sp2021_Project_TerrainRecognition):
