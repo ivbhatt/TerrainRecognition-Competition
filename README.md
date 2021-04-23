@@ -2,6 +2,12 @@
 Project made as part of ECE542: Deep Learning &amp; Neural Networks; TerrainRecognition <br/>
 *This work finished first on the leaderboard with F1-score of 0.935 on the private-test set.
 
+## Dependencies:
+
+* All notebooks were run Google Colaboratory runtime envorinment any additional libraries used were installed on top of Colaboratory VM.
+* tsaug for time-series augmentation was used (installation code is present at the appropriate cells)
+
+
 ## Instructions:
 Link to Dataset (NCSU access) (ECE542_sp2021_Project_TerrainRecognition):
 https://drive.google.com/drive/folders/15qAg_VhIEGRIBGc6Uwr-dQssTLlpRNoO?usp=sharing 
